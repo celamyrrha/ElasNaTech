@@ -1,3 +1,3 @@
 # ElasNaTech
 
-Atividades do Cursos Elas na Tech
+Atividades do Curso Elas na Tech
